@@ -1,0 +1,32 @@
+== Changelog ==
+* Updated pot file
+* fixed a few minor issues.
+
+* Version - 1.0.12
+- UPDATED Font FontAwesome 5.12
+- UPDATED - JavaScripts
+- UPDATED - Foundation Zurb to 5.5.3
+- UPDATED - Pot File
+- IMPROVED - Fonts Compatibility
+- Beautify CSS
+- REMOVED - Modernizr
+- Other minor issues
+
+* Version - 1.0.11
+- Fixed a customizer issue
+
+* Version - 1.0.10
+- No follow to footer credit
+
+* Version - 1.0.9
+- Fixed PHP 7.2 create_function error
+
+* Version - 1.0.8
+- Added theme URI;
+- Updated Foundation to 5.5.3
+- Other minor fixes
+
+* Version - 1.0.7
+- Fixed the Social Widget;
+
+* Version - 1.0.5
